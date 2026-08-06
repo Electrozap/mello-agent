@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+*.wav
+*.mp3
+recordings/
+.pytest_cache/
+.claude/
